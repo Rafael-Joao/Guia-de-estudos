@@ -1,2 +1,2 @@
 # Guia de estudos
-Meu objetivo é aprender a colaborar usando Git juntamente com os outros.
+Meu objetivo é aprender a colaborar usando Git para ajudar meu grupo.
